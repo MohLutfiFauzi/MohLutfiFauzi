@@ -1,6 +1,6 @@
 ### Hi! 👋 I'm Lutfi.
 
-An independent Software Engineer who loves to create and share projects about website technology! I've enjoyed JavaScript and make it the main language in creating a project.
+An independent Frontend Developer who loves to create and share projects about website technology! I've enjoyed JavaScript and make it the main language in creating a project.
 
 - 🔭 I’m currently lerning about frontend on <a href="https://github.com/dicodingacademy">@dicodingacademy</a>
 - 💬 Feel free to ask me about web development or JavaScript
